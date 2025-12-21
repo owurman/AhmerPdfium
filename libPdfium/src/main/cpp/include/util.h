@@ -1,5 +1,5 @@
-#ifndef _UTIL_HPP_
-#define _UTIL_HPP_
+#ifndef UTIL_HPP_
+#define UTIL_HPP_
 
 #include <android/log.h>
 #include <jni.h>
